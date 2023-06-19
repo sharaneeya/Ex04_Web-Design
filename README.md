@@ -26,6 +26,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <head>
   <title>Agricultural Search</title>
@@ -50,6 +51,7 @@
   </a>
 </body>
 </html>
+```
 
 
 ## OUTPUT
